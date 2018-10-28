@@ -1,0 +1,1 @@
+pyinstaller adBOT.py --onefile --icon=bot.ico
